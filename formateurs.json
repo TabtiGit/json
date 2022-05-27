@@ -1,0 +1,6 @@
+{"formateurs":[
+{"id":"1" ,  "nom":"Ahmadi", "email":"Ahmadi23@gmail.com", "ville":"casa" ,"genre":"M", "phone":{"mobile":"0688112233","maison":"0544116686","travail":"0688112233" }},
+{"id":"2" ,  "nom":"KHADIJA", "email":"KHADIJA@gmail.com", "ville":"TANGER" ,"genre":"F", "phone":{"mobile":"0644212663","maison":"0577113423","travail":"0636426422" }},
+{"id":"3" ,  "nom":"JAHID", "email":"JAHID@gmail.com", "ville":"RABAT" ,"genre":"M", "phone":{"mobile":"0614123433","maison":"054888886","travail":"06112212233" }}
+]}
+
